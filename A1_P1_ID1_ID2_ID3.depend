@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584217156 source:d:\ramos\codes\a1_p1_id1_id2_id3\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<string.h>
+	<vector>
+	<sstream>
+	<fstream>
+	<bits/stdc++.h>
+
